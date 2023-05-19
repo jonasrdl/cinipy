@@ -1,0 +1,5 @@
+.idea
+/build
+/cinipy.egg-info
+/dist
+/venv
