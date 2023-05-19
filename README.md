@@ -20,10 +20,10 @@ log_error(["error", {"key": "value"}])
 
 ### Future features
 
-- Custom Formatting
-- Log handlers
-  - Write logs to a file
-  - Send logs to remote server
-  - Stream to Elasticsearch, logstash, ...
-- More configure options
-- Filtering
+- [ ] Custom Formatting
+- [ ] Log handlers
+  - [ ] Write logs to a file
+  - [ ] Send logs to remote server
+  - [ ] Stream to Elasticsearch, logstash, ...
+- [ ] More configure options
+- [ ] Filtering
