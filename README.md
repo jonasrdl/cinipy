@@ -1,17 +1,17 @@
-# cini
+# cinipy
 
-cini is an app for custom logging.
+cinipy is an app for custom logging.
 
 ## Installation
 
 You can install the app using pip:
   
-`pip install cini`
+`pip install cinipy`
 
 ## Usage
 
 ```python
-from cini import log_info, log_warning, log_error
+from cinipy import log_info, log_warning, log_error
 
 log_info("This is an info message.")
 log_warning({"key": "value", "key2": [1, 2, 3]})
