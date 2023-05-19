@@ -5,9 +5,8 @@ cini is an app for custom logging.
 ## Installation
 
 You can install the app using pip:
-
-**Coming soon**   
-~~pip install cini~~ 
+  
+`pip install cini`
 
 ## Usage
 
