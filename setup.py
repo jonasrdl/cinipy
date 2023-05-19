@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cinipy',
-    version='0.0.1',
+    version='0.0.2',
     author='jonasrdl',
     author_email='jonasriedel@pm.me',
     description='An app for custom logging',
